@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8292e02755158d14d8eb09d27f9052c7, type: 3}
+  m_Name: Tile Number Pool
+  m_EditorClassIdentifier: 
+  tileNumberPrefab:
+  - {fileID: 5973547820668046054, guid: e663248665a23c54a819ad7b01142a99, type: 3}
+  recycle: 1
